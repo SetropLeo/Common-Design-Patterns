@@ -1,0 +1,19 @@
+{
+  "name": "common-design-patterns",
+  "version": "1.0.0",
+  "description": "[POC] - Common Design Patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SetropLeo/Common-Design-Patterns.git"
+  },
+  "author": "SetropLeo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SetropLeo/Common-Design-Patterns/issues"
+  },
+  "homepage": "https://github.com/SetropLeo/Common-Design-Patterns#readme"
+}
