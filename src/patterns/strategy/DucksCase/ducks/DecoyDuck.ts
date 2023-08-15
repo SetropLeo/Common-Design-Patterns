@@ -1,7 +1,7 @@
 import Duck from "../Duck";
 
-import MuteQuack from "../behavior/quack/MuteQuack";
-import FlyNoWay from "../behavior/fly/FlyNoWay";
+import MuteQuack from "../behaviors/quack/MuteQuack";
+import FlyNoWay from "../behaviors/fly/FlyNoWay";
 
 class DecoyDuck extends Duck {
   constructor() {

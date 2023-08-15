@@ -1,7 +1,7 @@
 import Duck from "../Duck";
 
-import FlyWithWings from "../behavior/fly/FlyWithWings";
-import Quack from "../behavior/quack/Quack";
+import FlyWithWings from "../behaviors/fly/FlyWithWings";
+import Quack from "../behaviors/quack/Quack";
 
 class RedHeadDuck extends Duck {
   constructor() {
