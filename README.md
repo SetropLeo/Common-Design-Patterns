@@ -1,4 +1,4 @@
-1. Strategy Pattern
+# 1. Strategy Pattern
 
 a) What is it/What it does?
 
@@ -9,7 +9,7 @@ b) Where you can use it?
 - When you need to use different algorithms within a specific object.
 - When you have a lot of similar classes that only differ in the way they execute some behavior.
 
-2. Adapter Pattern
+# 2. Adapter Pattern
 
 a) What is it/What it does?
 
