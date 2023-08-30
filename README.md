@@ -1,6 +1,6 @@
 # 1. Strategy Pattern
 
-a) What is it/What it does?
+a) What it is/What it does?
 
 - It is a pattern that extracts the behavior of an object into separated classes. 
 
@@ -11,7 +11,7 @@ b) Where you can use it?
 
 # 2. Adapter Pattern
 
-a) What is it/What it does?
+a) What it is/What it does?
 
 - It is a pattern that allow you to convert a class that respects a specific interface to respect another one
 
@@ -21,7 +21,7 @@ b) Where you can use it?
 
 # 3. Observer Pattern
 
-a) What is it/What it does?
+a) What it is/What it does?
 
 - It is a pattern that defines a one-to-many dependency between objects.
 
