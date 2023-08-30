@@ -18,3 +18,19 @@ a) What is it/What it does?
 b) Where you can use it?
 
 - In a case that you want/need to use some existing class but its interface isn't compatible with the rest of the code.
+
+# 3. Observer Pattern
+
+a) What is it/What it does?
+
+- It is a pattern that defines a one-to-many dependency between objects.
+
+- When a object changes state, its dependents will be notified and updated automatically.
+
+- It allows the objects to have loose coupling. It means that the subjects and observers doesn't need to know about each other, they are independent. 
+
+- The Subjects are responsible for saving/handling the data and sending to their subscribed Observers. 
+
+b) Where you can use it?
+
+- When your code doesn't need to be hardly coupled and a class doesn't need to know too much about the other one. 
