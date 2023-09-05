@@ -4,6 +4,8 @@ a) What it is/What it does?
 
 - It is a pattern that extracts the behavior of an object into separated classes. 
 
+- Based in the open-closed principle.
+
 b) Where you can use it?
 
 - When you need to use different algorithms within a specific object.
@@ -13,7 +15,7 @@ b) Where you can use it?
 
 a) What it is/What it does?
 
-- It is a pattern that allow you to convert a class that respects a specific interface to respect another one
+- It is a pattern that allows you to convert a class that respects a specific interface to respect another one
 
 b) Where you can use it?
 
@@ -34,3 +36,21 @@ a) What it is/What it does?
 b) Where you can use it?
 
 - When your code doesn't need to be hardly coupled and a class doesn't need to know too much about the other one. 
+
+# 4. Decorator Pattern
+
+a) What it is/What it does?
+
+- It is a pattern that allows you attaches additional responsabilities to an object dinamically.
+
+- It provides a flexible alternative to subclassing for extending functionality.
+
+- You to use the composition to get flexibility in the code.
+
+- Based in the open-closed principle.
+
+b) Where you can use it?
+
+- When your code needs to support multiple behaviors according to different classes.
+
+- When you don't want to constantly need to modify your code to support different functionalities. 
