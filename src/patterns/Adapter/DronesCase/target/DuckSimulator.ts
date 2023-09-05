@@ -17,3 +17,5 @@ class DuckSimulator {
 }
 
 export default DuckSimulator;
+
+DuckSimulator.start();

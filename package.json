@@ -4,7 +4,7 @@
   "description": "[POC] - Common Design Patterns",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx ts-node"
   },
   "repository": {
     "type": "git",
@@ -16,8 +16,10 @@
     "url": "https://github.com/SetropLeo/Common-Design-Patterns/issues"
   },
   "homepage": "https://github.com/SetropLeo/Common-Design-Patterns#readme",
-  "dependencies": {
-    "@types/node": "^20.5.0",
-    "typescript": "^5.1.6"
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.5.9",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
   }
 }
