@@ -54,3 +54,16 @@ b) Where you can use it?
 - When your code needs to support multiple behaviors according to different classes.
 
 - When you don't want to constantly need to modify your code to support different functionalities. 
+
+
+# 5. Iterator Pattern
+
+a) What it is/What it does?
+
+- It provides a way to access the elements of a list of objects withouth changing the list representation.
+
+- Based in the single responsibility principle.
+
+b) Where you can use it?
+
+- When your implementation doesn't need to know the type of the list objects, but need to know how to ask for the list.
