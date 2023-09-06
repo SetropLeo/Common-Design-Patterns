@@ -66,4 +66,4 @@ a) What it is/What it does?
 
 b) Where you can use it?
 
-- When your implementation doesn't need to know the type of the list objects, but need to know how to ask for the list.
+- When your implementation need a way to iterate over a collection and hide the implementation logic
