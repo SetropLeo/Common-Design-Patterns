@@ -51,3 +51,7 @@ Obs: Some of the patterns don't have a main class to test. You can learn them ju
 ## 4.2 Pizza Store Case
 
 - npm run test src/patterns/Decorator/PizzaStoreCase/PizzaStore.ts
+
+## 5. Iterator
+
+- npm run test src/patterns/Iterator/CafeCase/client/Cafe.ts
